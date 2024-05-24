@@ -1,0 +1,11 @@
+{
+  "m.homeserver": {
+    "base_url": "https://im.bonifacelabs.ca"
+  },
+  "m.identity_server": {
+    "base_url": "https://im.bonifacelabs.ca"
+  },
+  "im.vector.riot.jitsi": {
+    "preferredDomain": "meet.bonifacelabs.ca"
+  }
+}

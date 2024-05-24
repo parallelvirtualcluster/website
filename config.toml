@@ -1,0 +1,20 @@
+baseurl = "https://www.parallelvirtualcluster.org"
+languageCode = "en-us"
+title = "Parallel Virtual Cluster"
+author = "Joshua M. Boniface"
+theme = "scroll"
+
+contentdir = "content"
+publishdir = "public"
+builddrafts = false
+canonifyurls = true
+copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 License."
+
+[indexes]
+   category = "categories"
+   tag = "tags"
+[Params]
+  AuthorName = "Joshua M. Boniface"
+  email = "joshua@boniface.me"
+  description = "A Linux KVM-based hyperconverged infrastructure (HCI) virtualization cluster solution"
+  logo = "/images/pvc-logo.png"

@@ -1,0 +1,6 @@
+---
+bbuilder:
+  push:
+    - git submodule update --init
+    - hugo
+    - /usr/local/bin/deploy-site www.parallelvirtualcluster.org public/
