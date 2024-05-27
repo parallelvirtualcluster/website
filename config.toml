@@ -16,5 +16,6 @@ copyright = "This work is licensed under a Creative Commons Attribution-ShareAli
 [Params]
   AuthorName = "Joshua M. Boniface"
   email = "joshua@boniface.me"
-  description = "A Linux KVM-based hyperconverged infrastructure (HCI) virtualization cluster solution"
-  logo = "/images/pvc-logo.png"
+  description = "Parallel Virtual Cluster is a Linux KVM-based hyperconverged infrastructure (HCI) virtualization cluster solution"
+  logo = "/images/pvc-logo-full.png"
+  logo_later = "/images/pvc-logo-icon.png"

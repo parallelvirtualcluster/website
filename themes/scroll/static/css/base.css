@@ -2053,7 +2053,7 @@ ul li {
   margin-bottom: 0rem;
   text-align: center;
   color: #fef6eb;
-  background: #525564 no-repeat center center;
+  background: #333333 no-repeat center center;
   background-size: cover; }
 
 #blog-logo img {
@@ -2087,11 +2087,11 @@ ul li {
 .post-holder {
   width: 100%;
   height: 100%;
-  background: #74828f;
+  background: #555555;
   position: relative; }
 
 .oneOff {
-  background: #525564;
+  background: #333333;
   color: #fef6eb; }
 
 /* Every post, on every page, gets this style on its <article> tag */
@@ -2337,7 +2337,7 @@ a.fn-item.active {
   line-height: 1.5em;
   color: #fef6eb;
   text-align: center;
-  background: #74828f; }
+  background: #555555; }
 
 /* The subscribe icon on the footer */
 .subscribe {
